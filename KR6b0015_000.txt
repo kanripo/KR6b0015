@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 妙色王因緣經
+#+DATE: 2015-08-30 19:33:52.157387
+#+PROPERTY: JUAN 0
